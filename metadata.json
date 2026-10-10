@@ -1,0 +1,8 @@
+{
+  "name": "AI VISION — Skill Gap Analyser \u0026 Career Navigator",
+  "description": "Dynamic AI-powered resume skill gap analyser, ATS-inspired evaluator, entry-level career navigator, tailored learning roadmaps, and interview prep for students and graduates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
